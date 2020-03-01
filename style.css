@@ -19,7 +19,7 @@ article {
     background-color: #777;
     color: #ebebeb;
     width: 445px;
-    height: 170px;
+    height: 190px;
     margin: 0 15px;
     padding: 10px;
     position: absolute;
@@ -47,6 +47,7 @@ p {
 }
 
 .lightText {
+    background-color: transparent;
     color: #ebebeb;
     line-height: 40px;
     text-align: center;
